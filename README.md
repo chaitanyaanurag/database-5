@@ -1,4 +1,3 @@
-# database-5
 # Hello World Django App
 
 This is a simple Django app that provides a Hello World message in JSON format.
